@@ -1,4 +1,6 @@
-![SMART Interactive System Demonstration 17_06_2025 6_58_44 PM 1](https://github.com/user-attachments/assets/1269c8aa-de1c-454e-b905-cc86ec38a37e)
+![Banner](https://github.com/user-attachments/assets/1623f0d0-6998-4d1a-877f-f432542f4a10)
+
+![Hero image](https://github.com/user-attachments/assets/1269c8aa-de1c-454e-b905-cc86ec38a37e)
 
 ## SMART Simulator
 
