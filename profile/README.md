@@ -10,4 +10,4 @@ Easily run physically-based simulations for multi-agent pathfinding.
 
 [Source code](https://github.com/smart-mapf/demo)
 
-[Docs (coming soon)](https://github.com/smart-mapf/demo)
+[Docs](https://jingtianyan.github.io/smart-docs/index.html))
