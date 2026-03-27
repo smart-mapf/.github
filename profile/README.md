@@ -11,3 +11,11 @@ Easily run physically-based simulations for multi-agent pathfinding.
 [Source code](https://github.com/smart-mapf/demo)
 
 [Docs](https://jingtianyan.github.io/smart-docs/index.html)
+
+## Lifelong SMART Simulator
+
+An open-source simulator to evaluate any lifelong Multi-Agent Path Finding algorithms with real-world kinodynamics and execution uncertainties.
+
+[Source code](https://github.com/smart-mapf/lifelong-smart)
+
+[Docs](https://smart-mapf.github.io/lifelong-smart/)
